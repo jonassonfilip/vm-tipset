@@ -33,7 +33,7 @@
 
 /* ===== PARTICIPANTS ===== */
 .participants {
-  width: 25%;
+  width: 30%;
   gap: 0.8rem;
   flex-wrap: wrap;
   display: flex;

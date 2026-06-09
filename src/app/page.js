@@ -61,20 +61,21 @@ export default function Home() {
                 <li>Filip</li>
                 <li>Frida</li>
                 <li>Johan</li>
-                <li>Johanna</li>
-                <li>Jonas</li>
               </ul>
             </div>
             <div className={styles.tableRow}>
-              <ul></ul>
-            </div>
-
-            <div className={styles.tableRow}>
               <ul>
+                <li>Johanna</li>
+                <li>Jonas</li>
                 <li>Linus</li>
                 <li>Martin</li>
                 <li>Mattias</li>
                 <li>Peter</li>
+              </ul>
+            </div>
+
+            <div className={styles.tableRow}>
+              <ul>
                 <li>Petra</li>
                 <li>Robin</li>
                 <li>Sam</li>
