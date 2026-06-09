@@ -17,6 +17,7 @@ const participants = [
   'Martin',
   'Peter',
   'Petra',
+  'Robin',
   'Sam',
   'Sonja',
 ];
@@ -47,59 +48,38 @@ export default function Home() {
             ))}
           </div>
         </div>
-        {/* <div className={styles.table}>
+        <div className={styles.table}>
           <h2>Tabell:</h2>
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
               <ul>
-                <h4>285 poäng:</h4>
-                <li>Peter</li>
-                <li>Therese</li>
-
-                <h4>275 poäng:</h4>
-                <li>Basta</li>
-                <li>Filip</li>
-                <li>Ludwig R</li>
-
-                <h4>270 poäng:</h4>
-                <li>Henrik</li>
-                <li>Robin</li>
-              </ul>
-            </div>
-            <div className={styles.tableRow}>
-              <ul>
-                <h4>255 poäng:</h4>
-                <li>Carolina</li>
-
-                <h4>250 poäng:</h4>
-                <li>Marcus</li>
-
-                <h4>245 poäng:</h4>
-                <li>Ludwig P</li>
-
-                <h4>240 poäng:</h4>
-                <li>Karl</li>
-
-                <h4>235 poäng:</h4>
-                <li>Victor</li>
-              </ul>
-            </div>
-
-            <div className={styles.tableRow}>
-              <ul>
-                <h4>230 poäng:</h4>
-                <li>Elias</li>
-                <li>Glenn</li>
-
-                <h4>215 poäng:</h4>
-                <li>Anders</li>
-
-                <h4>205 poäng:</h4>
                 <li>Alessandro</li>
+                <li>Anncatrine</li>
+                <li>Birgitta</li>
+                <li>Filip</li>
+                <li>Frida</li>
+                <li>Johan</li>
+                <li>Johanna</li>
+                <li>Jonas</li>
+              </ul>
+            </div>
+            <div className={styles.tableRow}>
+              <ul></ul>
+            </div>
+
+            <div className={styles.tableRow}>
+              <ul>
+                <li>Linus</li>
+                <li>Martin</li>
+                <li>Peter</li>
+                <li>Petra</li>
+                <li>Robin</li>
+                <li>Sam</li>
+                <li>Sonja</li>
               </ul>
             </div>
           </div>
-        </div> */}
+        </div>
       </div>
     </main>
   );
