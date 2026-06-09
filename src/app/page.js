@@ -9,6 +9,7 @@ const participants = [
   'Filip',
   'Frida',
   'Johan',
+  'Johanna',
   'Jonas',
   'Linus',
   'Ludwig P',
