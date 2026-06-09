@@ -15,11 +15,13 @@ const participants = [
   'Ludwig P',
   'Ludwig R',
   'Martin',
+  'Mattias',
   'Peter',
   'Petra',
   'Robin',
   'Sam',
   'Sonja',
+  'Sofie',
 ];
 
 export default function Home() {
@@ -71,10 +73,12 @@ export default function Home() {
               <ul>
                 <li>Linus</li>
                 <li>Martin</li>
+                <li>Mattias</li>
                 <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
                 <li>Sam</li>
+                <li>Sofie</li>
                 <li>Sonja</li>
               </ul>
             </div>
