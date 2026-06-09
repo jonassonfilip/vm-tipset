@@ -68,6 +68,7 @@
 .coupon h1 {
   margin-bottom: 1rem;
   color: antiquewhite;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.893);
 }
 .description:hover {
   cursor: pointer;
@@ -222,6 +223,7 @@
     font-size: 2rem;
     width: 100%;
     text-shadow: 0 2px 8px rgba(0, 0, 0, 0.893);
+    font-family: 'Nunito';
   }
   .foreignLanguage {
     display: none;
