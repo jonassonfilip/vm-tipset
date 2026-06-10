@@ -5,6 +5,7 @@ import styles from './page.module.css';
 const participants = [
   'Alessandro',
   'Anncatrine',
+  'Berit',
   'Birgitta',
   'Caroline',
   'Filip',
@@ -14,6 +15,7 @@ const participants = [
   'Johan J',
   'Johanna',
   'Jonas',
+  'Julian',
   'Linus',
   'Ludwig P',
   'Ludwig R',
@@ -60,27 +62,29 @@ export default function Home() {
               <ul>
                 <li>Alessandro</li>
                 <li>Anncatrine</li>
+                <li>Berit</li>
                 <li>Birgitta</li>
                 <li>Caroline</li>
                 <li>Filip</li>
                 <li>Frida</li>
-                <li>Gabriel</li>
-                <li>Johan J</li>
-                <li>Johan M</li>
               </ul>
             </div>
             <div className={styles.tableRow}>
               <ul>
+                <li>Gabriel</li>
+                <li>Johan J</li>
+                <li>Johan M</li>
                 <li>Johanna</li>
                 <li>Jonas</li>
+                <li>Julian</li>
                 <li>Linus</li>
-                <li>Martin</li>
-                <li>Mattias</li>
               </ul>
             </div>
 
             <div className={styles.tableRow}>
               <ul>
+                <li>Martin</li>
+                <li>Mattias</li>
                 <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
