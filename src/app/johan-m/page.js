@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import coupon from './johan-1.png';
+import coupon from './johan-m-1.png';
 import styles from '../page.module.css';
 
 export default function Page() {
