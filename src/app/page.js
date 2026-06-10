@@ -6,9 +6,12 @@ const participants = [
   'Alessandro',
   'Anncatrine',
   'Birgitta',
+  'Caroline',
   'Filip',
   'Frida',
-  'Johan',
+  'Gabriel',
+  'Johan M',
+  'Johan J',
   'Johanna',
   'Jonas',
   'Linus',
@@ -58,9 +61,12 @@ export default function Home() {
                 <li>Alessandro</li>
                 <li>Anncatrine</li>
                 <li>Birgitta</li>
+                <li>Caroline</li>
                 <li>Filip</li>
                 <li>Frida</li>
-                <li>Johan</li>
+                <li>Gabriel</li>
+                <li>Johan J</li>
+                <li>Johan M</li>
               </ul>
             </div>
             <div className={styles.tableRow}>
@@ -70,12 +76,12 @@ export default function Home() {
                 <li>Linus</li>
                 <li>Martin</li>
                 <li>Mattias</li>
-                <li>Peter</li>
               </ul>
             </div>
 
             <div className={styles.tableRow}>
               <ul>
+                <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
                 <li>Sam</li>
