@@ -6,12 +6,15 @@ const participants = [
   'Aksel',
   'Alessandro',
   'Anders',
+  'Andreas',
   'Anncatrine',
   'Atti',
   'Basta',
   'Berit',
   'Birgitta',
+  'Bodil',
   'Caroline',
+  'Clas',
   'Edvin',
   'Filip',
   'Frida',
@@ -19,21 +22,29 @@ const participants = [
   'Hannes',
   'Henrik',
   'Jakob',
+  'Joakim',
   'Joel',
   'Johan J',
   'Johan M',
+  'Johan N',
   'Johanna',
+  'Johannes',
   'Jonas',
   'Julian',
+  'Lina',
+  'Linn',
   'Linus',
   'Ludwig P',
   'Ludwig R',
   'Marcus',
+  'Maria',
   'Martin',
   'Maya',
   'Mattias',
   'Niklas',
   'Noel',
+  'Oliver',
+  'Oskar',
   'Peter',
   'Petra',
   'Robin',
@@ -77,12 +88,15 @@ export default function Home() {
                 <li>Aksel</li>
                 <li>Alessandro</li>
                 <li>Anders</li>
+                <li>Andreas</li>
                 <li>Anncatrine</li>
                 <li>Atti</li>
                 <li>Basta</li>
                 <li>Berit</li>
                 <li>Birgitta</li>
+                <li>Bodil</li>
                 <li>Caroline</li>
+                <li>Clas</li>
                 <li>Edvin</li>
                 <li>Filip</li>
                 <li>Frida</li>
@@ -90,10 +104,13 @@ export default function Home() {
                 <li>Hannes</li>
                 <li>Henrik</li>
                 <li>Jakob</li>
+                <li>Joakim</li>
                 <li>Joel</li>
                 <li>Johan J</li>
                 <li>Johan M</li>
+                <li>Johan N</li>
                 <li>Johanna</li>
+                <li>Johannes</li>
                 <li>Jonas</li>
                 <li>Julian</li>
               </ul>
@@ -104,15 +121,20 @@ export default function Home() {
 
             <div className={styles.tableRow}>
               <ul>
+                <li>Lina</li>
+                <li>Linn</li>
                 <li>Linus</li>
                 <li>Ludwig P</li>
                 <li>Ludwig R</li>
                 <li>Marcus</li>
+                <li>Maria</li>
                 <li>Martin</li>
                 <li>Maya</li>
                 <li>Mattias</li>
                 <li>Niklas</li>
                 <li>Noel</li>
+                <li>Oliver</li>
+                <li>Oskar</li>
                 <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
