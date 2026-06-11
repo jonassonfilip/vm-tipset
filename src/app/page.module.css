@@ -119,6 +119,10 @@
   margin-top: 0.4rem;
 }
 
+.tableRow li {
+  white-space: nowrap;
+}
+
 /* ===== COUPON ===== */
 .coupon {
   padding: 1rem;

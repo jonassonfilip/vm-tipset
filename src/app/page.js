@@ -12,10 +12,12 @@ const participants = [
   'Berit',
   'Birgitta',
   'Caroline',
+  'Edvin',
   'Filip',
   'Frida',
   'Gabriel',
   'Hannes',
+  'Henrik',
   'Jakob',
   'Joel',
   'Johan J',
@@ -31,12 +33,14 @@ const participants = [
   'Maya',
   'Mattias',
   'Niklas',
+  'Noel',
   'Peter',
   'Petra',
   'Robin',
   'Sam',
   'Sofie',
   'Sonja',
+  'Therese',
 ];
 
 export default function Home() {
@@ -79,10 +83,12 @@ export default function Home() {
                 <li>Berit</li>
                 <li>Birgitta</li>
                 <li>Caroline</li>
+                <li>Edvin</li>
                 <li>Filip</li>
                 <li>Frida</li>
                 <li>Gabriel</li>
                 <li>Hannes</li>
+                <li>Henrik</li>
                 <li>Jakob</li>
                 <li>Joel</li>
                 <li>Johan J</li>
@@ -90,9 +96,6 @@ export default function Home() {
                 <li>Johanna</li>
                 <li>Jonas</li>
                 <li>Julian</li>
-                <li>Linus</li>
-                <li>Ludwig P</li>
-                <li>Ludwig R</li>
               </ul>
             </div>
             <div className={styles.tableRow}>
@@ -101,17 +104,22 @@ export default function Home() {
 
             <div className={styles.tableRow}>
               <ul>
+                <li>Linus</li>
+                <li>Ludwig P</li>
+                <li>Ludwig R</li>
                 <li>Marcus</li>
                 <li>Martin</li>
                 <li>Maya</li>
                 <li>Mattias</li>
                 <li>Niklas</li>
+                <li>Noel</li>
                 <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
                 <li>Sam</li>
                 <li>Sofie</li>
                 <li>Sonja</li>
+                <li>Therese</li>
               </ul>
             </div>
           </div>
