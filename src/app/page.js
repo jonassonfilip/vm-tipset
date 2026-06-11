@@ -3,9 +3,12 @@ import Link from 'next/link';
 import styles from './page.module.css';
 
 const participants = [
+  'Aksel',
   'Alessandro',
+  'Anders',
   'Anncatrine',
   'Atti',
+  'Basta',
   'Berit',
   'Birgitta',
   'Caroline',
@@ -13,8 +16,10 @@ const participants = [
   'Frida',
   'Gabriel',
   'Hannes',
-  'Johan M',
+  'Jakob',
+  'Joel',
   'Johan J',
+  'Johan M',
   'Johanna',
   'Jonas',
   'Julian',
@@ -23,7 +28,9 @@ const participants = [
   'Ludwig R',
   'Marcus',
   'Martin',
+  'Maya',
   'Mattias',
+  'Niklas',
   'Peter',
   'Petra',
   'Robin',
@@ -63,9 +70,12 @@ export default function Home() {
           <div className={styles.tableRows}>
             <div className={styles.tableRow}>
               <ul>
+                <li>Aksel</li>
                 <li>Alessandro</li>
+                <li>Anders</li>
                 <li>Anncatrine</li>
                 <li>Atti</li>
+                <li>Basta</li>
                 <li>Berit</li>
                 <li>Birgitta</li>
                 <li>Caroline</li>
@@ -73,24 +83,29 @@ export default function Home() {
                 <li>Frida</li>
                 <li>Gabriel</li>
                 <li>Hannes</li>
-              </ul>
-            </div>
-            <div className={styles.tableRow}>
-              <ul>
+                <li>Jakob</li>
+                <li>Joel</li>
                 <li>Johan J</li>
                 <li>Johan M</li>
                 <li>Johanna</li>
                 <li>Jonas</li>
                 <li>Julian</li>
                 <li>Linus</li>
+                <li>Ludwig P</li>
+                <li>Ludwig R</li>
               </ul>
+            </div>
+            <div className={styles.tableRow}>
+              <ul></ul>
             </div>
 
             <div className={styles.tableRow}>
               <ul>
                 <li>Marcus</li>
                 <li>Martin</li>
+                <li>Maya</li>
                 <li>Mattias</li>
+                <li>Niklas</li>
                 <li>Peter</li>
                 <li>Petra</li>
                 <li>Robin</li>
