@@ -33,7 +33,7 @@
 
 /* ===== PARTICIPANTS ===== */
 .participants {
-  width: 30%;
+  width: 33%;
   gap: 0.8rem;
   flex-wrap: wrap;
   display: flex;
@@ -167,7 +167,7 @@
   }
   .table {
     margin-top: 8rem;
-    background: none;
+    background: rgba(0, 0, 0, 0.4);
   }
 }
 
